@@ -5,7 +5,13 @@
 	<link href="https://emamaker.com/atom.xml/" rel="self" />
 	<link href="https://emamaker.com/" />
 	<id>https://emamaker.com</id>
-	<updated>2023-01-20T12:33:51+01:00</updated>
+	<updated>2023-01-31T21:16:44+01:00</updated>
+	<entry>
+		<title>Developing a Voxel Engine</title>
+		<link href="/projects/voxelengine.html" />
+		<id>/projects/voxelengine.html</id>
+		<updated>2023-01-31 21:16:42.739745149 +0100</updated>
+	</entry>
 	<entry>
 		<title>EmaMaker&#38;#8217;s Blog</title>
 		<link href="/index.html" />
@@ -46,12 +52,6 @@
 		<title>SPQR Robotics Team</title>
 		<link href="/projects/spqr.html" />
 		<id>/projects/spqr.html</id>
-		<updated>2023-01-20 12:18:41.459430732 +0100</updated>
-	</entry>
-	<entry>
-		<title>Developing a Voxel Engine</title>
-		<link href="/projects/voxelengine.html" />
-		<id>/projects/voxelengine.html</id>
 		<updated>2023-01-20 12:18:41.459430732 +0100</updated>
 	</entry>
 	<entry>

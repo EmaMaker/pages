@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url><loc>/projects/voxelengine.html</loc></url>
 	<url><loc>/index.html</loc></url>
 	<url><loc>/events/index.html</loc></url>
 	<url><loc>/events/makerfaire2017.html</loc></url>
@@ -7,6 +8,5 @@
 	<url><loc>/projects/googlemeetbot.html</loc></url>
 	<url><loc>/projects/index.html</loc></url>
 	<url><loc>/projects/spqr.html</loc></url>
-	<url><loc>/projects/voxelengine.html</loc></url>
 	<url><loc>/notes/voxel.html</loc></url>
 </urlset>
